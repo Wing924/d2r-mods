@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "id": 25000,
     "Key": "D2CommandsFriends",
@@ -2958,7 +2958,7 @@
     "zhCN": "物品拾取已禁用"
   },
   {
-   "id": 25178,
+    "id": 25178,
     "Key": "strFraudWarning",
     "enUS": "Chat is temporarily unavailable because this account is under review. Please wait a few hours before restarting the application and trying again. The account can continue play in the meantime.",
     "zhTW": "這個帳號正在接受審查，因此暫時無法使用聊天功能。請在數小時後重新啟動應用程式，然後再試一次。在這段期間，這個帳號依然可以進行遊戲。",
